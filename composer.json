@@ -1,0 +1,7 @@
+{
+	"name" : "selenium-test/selenium-test2",
+	"require" : {
+		"phpunit/phpunit" : "4.5.0",
+		"phpunit/phpunit-selenium" : "1.4.2"
+	}
+}
