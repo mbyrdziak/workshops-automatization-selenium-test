@@ -4,7 +4,7 @@ require_once 'StringUtils.php';
 
 class BananaScrumTest extends PHPUnit_Extensions_Selenium2TestCase
 {
-	protected function setUp()
+	protected function setUp() 
 	{
 		$this->setBrowser("firefox");
 		$this->setBrowserUrl("https://szkolenia.bananascrum.com/");
