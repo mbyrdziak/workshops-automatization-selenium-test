@@ -9,7 +9,7 @@ class Selenium2Test extends PHPUnit_Extensions_Selenium2TestCase
 	}
 
 	public function testMyTestCase()
-	{
+	{ 
 		$this->url("/login");
 		$this->byId("login")->value("admin");
 		$this->byId("password")->value("password");
