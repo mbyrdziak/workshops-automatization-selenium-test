@@ -2,7 +2,7 @@
 require_once 'LoginPage.php';
 require_once 'StringUtils.php';
 
-class BananaScrumTest extends PHPUnit_Extensions_Selenium2TestCase
+class ProductBacklogTest extends PHPUnit_Extensions_Selenium2TestCase
 {
 	protected function setUp() 
 	{
