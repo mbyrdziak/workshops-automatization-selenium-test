@@ -1,5 +1,5 @@
 <?php
-include('pages/BananaScrumLoginPage.php');
+include('src/pages/BananaScrumLoginPage.php');
 
 class BananaScrumTest extends PHPUnit_Extensions_Selenium2TestCase {
 	
